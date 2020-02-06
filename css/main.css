@@ -24,14 +24,13 @@ html {
   width: 100%;
 }
 
-
 a {
   color: currentColor;
 }
 
 .card {
-   overflow: hidden;
+  overflow: hidden;
 
-   background-color: #d9ccaa;
-   border-radius: 6px;
+  background-color: #d9ccaa;
+  border-radius: 6px;
 }
